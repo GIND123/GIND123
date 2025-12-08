@@ -10,11 +10,11 @@ University of Maryland, College Park (USA)
 ## Second-Start Notice
 
 This GitHub account represents a **rebuild after permanent loss of my original profile**.  
-All ongoing research, publications, and future releases now continue under:
+All ongoing research, publications, and future releases now continue here, my previosu account is:
 
 🔁 **https://github.com/GOVINDFROMINDIA**
 
-This profile is my primary, stable academic identity going forward.
+
 
 ---
 
